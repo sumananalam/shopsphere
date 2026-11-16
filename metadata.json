@@ -1,0 +1,6 @@
+{
+  "name": "ShopSphere",
+  "description": "Modern full-stack e-commerce platform with premium purple theme, user auth, cart, wishlist, orders, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
